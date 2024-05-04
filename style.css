@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-family: Verdana;
+    background-color: blanchedalmond;
+}
+
+.label1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #030329;
+}
+
+button{
+    font-size: 3em;
+    background-color: #86a004;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+#p2, #p3, #p4{
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #86a004;
+    background-color: beige;
+}
